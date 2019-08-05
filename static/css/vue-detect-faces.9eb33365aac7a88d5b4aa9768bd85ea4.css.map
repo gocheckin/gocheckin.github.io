@@ -1,1 +1,0 @@
-{"version":3,"sources":["vue-detect-faces.9eb33365aac7a88d5b4aa9768bd85ea4.css"],"names":[],"mappings":"AACA,oDACE,iBAAkB,CAClB,KAAM,CACN,MACF","file":"vue-detect-faces.9eb33365aac7a88d5b4aa9768bd85ea4.css","sourcesContent":["\n#overlay[data-v-01fc8121], .overlay[data-v-01fc8121] {\n  position: absolute;\n  top: 0;\n  left: 0;\n}\n\n"]}
