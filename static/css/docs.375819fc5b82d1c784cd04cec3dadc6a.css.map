@@ -1,0 +1,1 @@
+{"version":3,"sources":["docs.375819fc5b82d1c784cd04cec3dadc6a.css"],"names":[],"mappings":"AACA,oDACE,iBAAkB,CAClB,KAAM,CACN,MACF","file":"docs.375819fc5b82d1c784cd04cec3dadc6a.css","sourcesContent":["\n#overlay[data-v-fae74e66], .overlay[data-v-fae74e66] {\n  position: absolute;\n  top: 0;\n  left: 0;\n}\n\n"]}
