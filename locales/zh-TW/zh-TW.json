@@ -1,0 +1,486 @@
+{
+  "nav": {
+    "home": "首頁",
+    "checkin": "智慧簽到",
+    "bms": "智慧建築管理",
+    "api": "API",
+    "about": "關於我們",
+    "contact": "聯絡我們",
+    "pricing": "價格"
+  },
+  "hero": {
+    "title": "智慧建築管理與簽到解決方案",
+    "subtitle": "結合物聯網和人工智慧，提供無縫、安全、經濟的建築管理解決方案，支援開放API整合",
+    "cta": "立即開始"
+  },
+  "checkin": {
+    "title": "智慧簽到解決方案",
+    "subtitle": "透過我們的智慧解決方案簡化您的簽到流程",
+    "features": {
+      "automated": {
+        "title": "自動簽到",
+        "description": "利用現有IP攝影機自動化簽到流程"
+      },
+      "external": {
+        "title": "外部API整合",
+        "description": "與您現有系統無縫整合"
+      },
+      "resource": {
+        "title": "資源與日程規劃",
+        "description": "智慧分配和管理建築資源"
+      },
+      "guest": {
+        "title": "訪客登記",
+        "description": "自動化訪客管理和存取控制"
+      },
+      "locks": {
+        "title": "智慧鎖",
+        "description": "安全便捷的存取控制系統"
+      },
+      "communication": {
+        "title": "遠端通訊與協助",
+        "description": "與住戶和員工保持聯絡"
+      }
+    }
+  },
+  "bms": {
+    "title": "智慧建築管理系統",
+    "subtitle": "由物聯網和人工智慧驅動的全面建築管理",
+    "cta": "聯絡我們",
+    "features": {
+      "cameras": {
+        "title": "現有IP攝影機整合",
+        "description": "利用您當前的攝影機基礎設施"
+      },
+      "storage": {
+        "title": "安全雲端儲存",
+        "description": "所有資料都儲存在加密的雲端環境中"
+      },
+      "entry": {
+        "title": "自動入口控制",
+        "description": "為註冊使用者提供智慧存取管理"
+      },
+      "surveillance": {
+        "title": "人工智慧監控",
+        "description": "具有即時事件偵測功能的智慧監控"
+      },
+      "videoClipping": {
+        "title": "智慧影片剪輯",
+        "description": "人工智慧驅動的影片剪輯，提高可追溯性"
+      },
+      "affordable": {
+        "title": "便捷實惠",
+        "description": "現代建築的經濟實惠解決方案"
+      }
+    }
+  },
+  "api": {
+    "title": "開放API平臺",
+    "subtitle": "將GoCheckIn與您現有的系統整合",
+    "features": {
+      "documentation": {
+        "title": "全面文件",
+        "description": "詳細的API指南和範例"
+      },
+      "authentication": {
+        "title": "安全認證",
+        "description": "產業標準安全協議"
+      },
+      "endpoints": {
+        "title": "RESTful端點",
+        "description": "易於使用的API端點"
+      },
+      "webhooks": {
+        "title": "即時Webhooks",
+        "description": "即時通知和更新"
+      }
+    }
+  },
+  "about": {
+    "title": "關於GoCheckIn",
+    "subtitle": "用智慧技術革新建築管理",
+    "description": "GoCheckIn結合了前沿的物聯網和人工智慧技術，為現代建築管理提供全面解決方案。我們的平臺提供無縫的簽到體驗和強大的建築管理功能，同時保持最高標準的安全性和經濟性。",
+    "mission": "我們的使命是將傳統建築管理轉變為智慧、高效和使用者友好的體驗。透過利用現有基礎設施並添加智慧軟體層，我們幫助物業管理者降低成本、增強安全性，並改善管理者和使用者的整體體驗。",
+    "cta": "聯絡我們",
+    "features": {
+      "iot": "物聯網整合",
+      "ai": "人工智慧技術",
+      "security": "雲端安全",
+      "access": "智慧存取",
+      "monitoring": "即時監控",
+      "affordable": "經濟實惠"
+    },
+    "vision": {
+      "title": "我們的願景",
+      "description": "我們設想未來建築管理將完全自動化、安全且可從任何地方存取。GoCheckIn正在透過適應現代物業不斷發展需求的創新解決方案引領這一轉變。",
+      "innovation": "人工智慧和物聯網技術的持續創新",
+      "security": "對安全和隱私的堅定承諾",
+      "partnership": "與物業管理者和技術提供商的強大合作夥伴關係"
+    }
+  },
+  "contact": {
+    "title": "聯絡我們",
+    "subtitle": "與我們的團隊取得聯絡",
+    "form": {
+      "name": "姓名",
+      "email": "電子郵件",
+      "message": "留言",
+      "submit": "發送訊息"
+    }
+  },
+  "footer": {
+    "copyright": "© 2024 GoCheckIn. 保留所有權利。",
+    "quickLinks": "快速連結",
+    "social": "關注我們"
+  },
+  "languageSwitch": {
+    "toJapanese": "切換到日語",
+    "toChinese": "切換到簡體中文",
+    "toEnglish": "切換到英文",
+    "toTraditionalChinese": "切換到繁體中文"
+  },
+  "sectionHeaders": {
+    "checkinFeatures": "智慧簽到功能與解決方案",
+    "bmsFeatures": "智慧建築管理功能與解決方案"
+  },
+  "features": {
+    "title": "主要功能",
+    "automated": {
+      "title": "自動簽到",
+      "description": "利用現有IP攝影機自動化簽到流程"
+    },
+    "secure": {
+      "title": "安全雲端儲存",
+      "description": "所有資料都儲存在加密的雲端環境中"
+    },
+    "smartLock": {
+      "title": "智慧鎖存取",
+      "description": "僅透過智慧鎖允許註冊使用者進入"
+    },
+    "surveillance": {
+      "title": "人工智慧監控",
+      "description": "具有即時事件偵測功能的智慧監控"
+    },
+    "videoClipping": {
+      "title": "智慧影片剪輯",
+      "description": "人工智慧驅動的影片分析和剪輯，提高可追溯性",
+      "slides": {
+        "part1": {
+          "title": "事件偵測",
+          "description": "人工智慧自動即時偵測和分析事件"
+        },
+        "part2": {
+          "title": "智慧剪輯",
+          "description": "根據偵測到的事件自動剪輯相關影片片段"
+        },
+        "part3": {
+          "title": "安全儲存",
+          "description": "所有剪輯都安全儲存且易於存取"
+        }
+      },
+      "features": {
+        "detection": {
+          "title": "人工智慧事件偵測",
+          "description": "先進的人工智慧演算法即時偵測和分析事件"
+        },
+        "clipping": {
+          "title": "智慧剪輯",
+          "description": "根據偵測到的事件自動剪輯相關影片片段"
+        },
+        "storage": {
+          "title": "安全儲存",
+          "description": "所有剪輯都透過加密安全儲存且易於存取"
+        }
+      }
+    },
+    "hostPortal": {
+      "title": "主機入口",
+      "description": "使用者友好的介面，管理簽到和系統操作",
+      "tabs": {
+        "dashboard": "儀表板檢視",
+        "management": "管理檢視"
+      },
+      "tab1": {
+        "description": "全面的儀表板，顯示即時簽到狀態、占用率和系統警報"
+      },
+      "tab2": {
+        "description": "進階管理介面，用於配置系統設定、管理使用者和產生報告"
+      },
+      "cta": "立即開始"
+    },
+    "openApi": {
+      "title": "開放API整合",
+      "description": "透過我們全面的API與您現有的系統無縫整合"
+    },
+    "affordable": {
+      "title": "經濟實惠的管理系統",
+      "description": "具有靈活定價選項的經濟實惠建築管理解決方案"
+    }
+  },
+  "solutions": {
+    "title": "我們的解決方案",
+    "description": "由物聯網和人工智慧驅動的全面建築管理解決方案",
+    "items": {
+      "cameras": {
+        "title": "IP攝影機整合",
+        "description": "與您現有的IP攝影機基礎設施無縫整合"
+      },
+      "cloud": {
+        "title": "雲端儲存",
+        "description": "安全且可擴展的雲端儲存，適用於所有資料"
+      },
+      "checkin": {
+        "title": "智慧簽到",
+        "description": "自動化和非接觸式簽到流程"
+      },
+      "entry": {
+        "title": "入口控制",
+        "description": "為註冊使用者提供智慧存取管理"
+      },
+      "smartlock": {
+        "title": "智慧鎖",
+        "description": "安全便捷的存取控制系統"
+      },
+      "surveillance": {
+        "title": "人工智慧監控",
+        "description": "具有即時事件偵測功能的智慧監控"
+      },
+      "openApi": {
+        "title": "開放API",
+        "description": "與您現有系統無縫整合"
+      },
+      "buildingManagement": {
+        "title": "建築管理",
+        "description": "全面的建築管理解決方案"
+      }
+    }
+  },
+  "pricing": {
+    "title": "定價計劃",
+    "subtitle": "智慧鎖對比表",
+    "table": {
+      "headers": {
+        "model": "型號",
+        "color": "顏色",
+        "battery": "電源",
+        "connectivity": "通訊",
+        "unlockMethods": "解鎖方式",
+        "autoLock": "自動鎖定",
+        "installation": "設置工程",
+        "price": "銷售價格",
+        "workingFee": "設置費用（參考）"
+      },
+      "devices": {
+        "STK001DC": {
+          "name": "STK001DC",
+          "color": "銀色",
+          "battery": "AA電池 x 2",
+          "connectivity": "・315MHz小功率無線",
+          "unlockMethods": "・PIN碼\n・專用遙控器\n・NFC（不支援FeliCa）\n・或指紋\n・其他：不支援雲",
+          "autoLock": "自動上鎖",
+          "installation": "螺絲安裝",
+          "price": "¥44,000（含稅）",
+          "workingFee": "¥15,000"
+        },
+        "STK001AC": {
+          "name": "STK001AC",
+          "color": "銀色",
+          "battery": "100V交流變壓器",
+          "connectivity": "・315MHz小功率無線\n・Zigbee",
+          "unlockMethods": "・PIN碼\n・專用遙控器\n・NFC（不支援FeliCa）\n・指紋\n・停電解鎖\n・其他方式：雲計劃",
+          "autoLock": "定時自動上鎖",
+          "installation": "需要交流變壓器安裝",
+          "price": "¥55,000（含稅）",
+          "workingFee": "¥30,000"
+        },
+        "MAG001AC": {
+          "name": "MAG001AC",
+          "color": "銀色",
+          "battery": "100V交流變壓器",
+          "connectivity": "・315MHz小功率無線\n・Zigbee",
+          "unlockMethods": "・PIN碼\n・專用遙控器\n・NFC（不支援FeliCa）\n・指紋\n・停電解鎖\n・其他方式：雲計劃",
+          "autoLock": "定時自動上鎖",
+          "installation": "需要交流變壓器安裝",
+          "price": "¥55,000（含稅）",
+          "workingFee": "¥30,000"
+        },
+        "MTR001DC": {
+          "name": "MTR001DC",
+          "color": "銀色",
+          "battery": "AA電池 x 6",
+          "connectivity": "・315MHz小功率無線\n・Zigbee",
+          "unlockMethods": "・PIN碼\n・專用遙控器\n・NFC（不支援FeliCa）\n・指紋\n・USB-C緊急供電\n・物理鑰匙\n・其他方式：雲計劃",
+          "autoLock": "自動上鎖",
+          "installation": "需要門鑽孔",
+          "price": "¥66,000（含稅）",
+          "workingFee": "¥20,000"
+        },
+        "MTR001AC": {
+          "name": "MTR001AC",
+          "color": "銀色",
+          "battery": "100V交流變壓器",
+          "connectivity": "・315MHz小功率無線\n・Zigbee",
+          "unlockMethods": "・PIN碼\n・專用遙控器\n・NFC（不支援FeliCa）\n・指紋\n・停電解鎖\n・物理鑰匙\n・其他方式：雲計劃",
+          "autoLock": "定時自動上鎖",
+          "installation": "需要門鑽孔和配線\n需要交流變壓器安裝",
+          "price": "¥88,000（含稅）",
+          "workingFee": "¥100,000"
+        }
+      }
+    },
+    "cloudPlans": {
+      "title": "雲計劃",
+      "headers": {
+        "features": "功能",
+        "planFeatures": "計劃功能",
+        "planDetails": "計劃詳情",
+        "price": "智慧鎖月費",
+        "cameraFee": "臉部辨識月費選項",
+        "videoClippingFee": "監控錄影月費選項",
+        "airbnbFee": "Airbnb整合選項"
+      },
+      "plans": {
+        "basic": {
+          "name": "基礎版",
+          "planFeatures": "・應用解鎖",
+          "planDetails": "・鎖使用台數無上限\n・應用用戶數5名為止\n・需要物聯網網關",
+          "price": "¥1,100/台（含稅）",
+          "cameraFee": "-",
+          "videoClippingFee": "-",
+          "airbnbFee": "-"
+        },
+        "professional": {
+          "name": "專業版",
+          "planFeatures": "・基礎版的所有功能\n・臉部辨識解鎖",
+          "planDetails": "・鎖使用台數無上限\n・應用用戶數100名為止\n・臉部辨識用戶數100名為止\n・臉部辨識攝影機數4台為止\n・錄影攝影機數4台為止\n・需要物聯網網關",
+          "price": "¥1,100/台（含稅）",
+          "cameraFee": "¥1,100/攝影機（含稅）",
+          "videoClippingFee": "¥1,100（含稅）\n*1GB雲儲存",
+          "airbnbFee": "-"
+        },
+        "business": {
+          "name": "商業版",
+          "planFeatures": "・專業版的所有功能\n・動態PIN碼通知\n・Airbnb整合\n・清潔計劃",
+          "planDetails": "・鎖使用台數無上限\n・應用用戶數1,000名為止\n・臉部辨識用戶數1,000名為止\n・臉部辨識攝影機數無上限\n・錄影攝影機數無上限\n・物聯網網關規格可協商",
+          "price": "¥1,650/台（含稅）",
+          "cameraFee": "¥1,100/攝影機（含稅）",
+          "videoClippingFee": "¥2,200（含稅）\n*3GB雲儲存",
+          "airbnbFee": "¥1,100/物件（含稅）"
+        },
+        "enterprise": {
+          "name": "企業版",
+          "planFeatures": "・商業版的所有功能\n・高級日曆管理功能\n・樓宇管理系統整合\n・API使用",
+          "planDetails": "・鎖使用台數無上限\n・應用用戶數無限制\n・訪客數無限制\n・臉部辨識攝影機數無上限\n・錄影攝影機數無上限\n・物聯網網關規格可協商",
+          "price": "¥2,200/台（含稅）",
+          "cameraFee": "¥1,100/攝影機（含稅）",
+          "videoClippingFee": "¥55,000（含稅）\n*100GB雲儲存",
+          "airbnbFee": "¥1,100/物件（含稅）"
+        }
+      }
+    }
+  },
+  "buildingManagement": {
+    "title": "建築管理",
+    "description": "由物聯網和人工智慧驅動的全面建築管理解決方案",
+    "features": {
+      "access": {
+        "title": "存取控制",
+        "description": "安全管理建築物入口和敏感區域"
+      },
+      "monitoring": {
+        "title": "即時監控",
+        "description": "全天候監控建築物活動和系統"
+      },
+      "maintenance": {
+        "title": "維護管理",
+        "description": "追蹤和安排定期維護任務"
+      },
+      "communication": {
+        "title": "通訊工具",
+        "description": "與租戶和員工保持聯絡"
+      }
+    },
+    "dashboard": {
+      "title": "建築管理儀表板",
+      "subtitle": "樓層佈局和智慧裝置分配",
+      "deviceManagement": "智慧裝置管理",
+      "features": {
+        "associate": "將智慧裝置關聯到房間和空間",
+        "manage": "管理溫度感應器、IP攝影機、智慧鎖和照明系統",
+        "interface": "用於警報和通知的直覺數位孿生介面",
+        "monitoring": "全面的監控和控制儀表板"
+      },
+      "learnMore": "了解更多",
+      "description": "佈局設置功能作為警報和通知的數位孿生外觀，提供直覺和全面的管理體驗。"
+    },
+    "pricing": {
+      "title": "定價方案",
+      "basic": {
+        "title": "基礎版",
+        "price": "NT$499/月",
+        "features": [
+          "基本存取控制",
+          "雲端儲存 (10GB)",
+          "標準支援",
+          "最多5個攝影機"
+        ]
+      },
+      "standard": {
+        "title": "標準版",
+        "price": "NT$999/月",
+        "features": [
+          "進階存取控制",
+          "雲端儲存 (50GB)",
+          "優先支援",
+          "最多15個攝影機",
+          "AI事件偵測"
+        ]
+      },
+      "premium": {
+        "title": "高級版",
+        "price": "NT$1999/月",
+        "features": [
+          "全面存取控制",
+          "無限雲端儲存",
+          "24/7專屬支援",
+          "無限攝影機",
+          "進階AI功能",
+          "自訂整合"
+        ]
+      }
+    },
+    "cta": "聯絡我們了解更多"
+  },
+  "videoClipping": {
+    "title": "智慧影片剪輯",
+    "description": "人工智慧驅動的影片分析和剪輯，提高可追溯性",
+    "slides": {
+      "part1": {
+        "title": "事件偵測",
+        "description": "人工智慧自動即時偵測和分析事件"
+      },
+      "part2": {
+        "title": "智慧剪輯",
+        "description": "根據偵測到的事件自動剪輯相關影片片段"
+      },
+      "part3": {
+        "title": "安全儲存",
+        "description": "所有剪輯都安全儲存且易於存取"
+      }
+    },
+    "features": {
+      "detection": {
+        "title": "人工智慧事件偵測",
+        "description": "先進的人工智慧演算法即時偵測和分析事件"
+      },
+      "clipping": {
+        "title": "智慧剪輯",
+        "description": "根據偵測到的事件自動剪輯相關影片片段"
+      },
+      "storage": {
+        "title": "安全儲存",
+        "description": "所有剪輯都透過加密安全儲存且易於存取"
+      }
+    }
+  }
+}
