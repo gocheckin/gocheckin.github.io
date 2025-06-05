@@ -1,0 +1,29 @@
+<svg width="600" height="400" viewBox="0 0 600 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="400" fill="white" fill-opacity="0.01"/>
+  <rect x="100" y="50" width="400" height="300" rx="20" fill="#E8F5E9"/>
+  <rect x="130" y="80" width="340" height="240" rx="10" fill="white"/>
+  
+  <!-- Camera -->
+  <circle cx="300" cy="150" r="40" fill="#C8E6C9"/>
+  <circle cx="300" cy="150" r="30" fill="#4CAF50"/>
+  <circle cx="300" cy="150" r="15" fill="#388E3C"/>
+  <circle cx="310" cy="140" r="5" fill="white" fill-opacity="0.7"/>
+  
+  <!-- Smart Lock -->
+  <rect x="250" y="220" width="100" height="70" rx="5" fill="#C8E6C9"/>
+  <rect x="270" y="230" width="60" height="40" rx="3" fill="#4CAF50"/>
+  <circle cx="300" cy="250" r="10" fill="#388E3C"/>
+  <rect x="295" y="245" width="10" height="20" rx="2" fill="#C8E6C9"/>
+  
+  <!-- Person Silhouette -->
+  <path d="M180 200C180 188.954 188.954 180 200 180H220C231.046 180 240 188.954 240 200V280H180V200Z" fill="#C8E6C9"/>
+  <circle cx="210" cy="160" r="20" fill="#C8E6C9"/>
+  
+  <!-- Check Mark -->
+  <path d="M380 160L400 180L440 140" stroke="#4CAF50" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Cloud -->
+  <path d="M400 100C400 88.9543 408.954 80 420 80H440C451.046 80 460 88.9543 460 100V120C460 131.046 451.046 140 440 140H420C408.954 140 400 131.046 400 120V100Z" fill="#C8E6C9"/>
+  <circle cx="430" cy="120" r="15" fill="#4CAF50"/>
+  <path d="M425 120L430 125L440 115" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg> 

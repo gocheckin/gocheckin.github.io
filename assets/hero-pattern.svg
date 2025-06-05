@@ -1,0 +1,9 @@
+<svg width="800" height="600" viewBox="0 0 800 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M0 0L800 0L800 600L0 600L0 0Z" fill="#4CAF50" fill-opacity="0.05"/>
+  <path d="M400 50C400 22.3858 422.386 0 450 0H800V600H450C422.386 600 400 577.614 400 550V50Z" fill="#4CAF50" fill-opacity="0.05"/>
+  <circle cx="600" cy="150" r="100" fill="#4CAF50" fill-opacity="0.05"/>
+  <circle cx="700" cy="300" r="80" fill="#4CAF50" fill-opacity="0.05"/>
+  <circle cx="500" cy="400" r="120" fill="#4CAF50" fill-opacity="0.05"/>
+  <path d="M650 500C650 472.386 672.386 450 700 450H800V600H700C672.386 600 650 577.614 650 550V500Z" fill="#4CAF50" fill-opacity="0.05"/>
+  <path d="M450 100C450 72.3858 472.386 50 500 50H600C627.614 50 650 72.3858 650 100V200C650 227.614 627.614 250 600 250H500C472.386 250 450 227.614 450 200V100Z" fill="#4CAF50" fill-opacity="0.05"/>
+</svg> 

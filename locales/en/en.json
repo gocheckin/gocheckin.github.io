@@ -1,0 +1,618 @@
+{
+  "nav": {
+    "home": "Home",
+    "checkin": "Smart Check-in",
+    "bms": "Smart BMS",
+    "api": "API",
+    "about": "About",
+    "contact": "Contact",
+    "pricing": "Pricing"
+  },
+  "hero": {
+    "title": "Smart Building Management & Check-in Solution",
+    "subtitle": "Combining IoT and AI for a seamless, secure, and affordable building management solution with open API integration",
+    "cta": "Get Started"
+  },
+  "checkin": {
+    "title": "Smart Check-in Solutions",
+    "subtitle": "Streamline your check-in process with our intelligent solutions",
+    "features": {
+      "automated": {
+        "title": "Automated Check-in",
+        "description": "Utilize existing IP cameras to automate the check-in process"
+      },
+      "external": {
+        "title": "External API Integration",
+        "description": "Seamlessly integrate with your existing systems"
+      },
+      "resource": {
+        "title": "Resource & Schedule Planning",
+        "description": "Smart allocation and management of building resources"
+      },
+      "guest": {
+        "title": "Guest Registration",
+        "description": "Automated guest management and access control"
+      },
+      "locks": {
+        "title": "Smart Locks",
+        "description": "Secure and convenient access control system"
+      },
+      "communication": {
+        "title": "Remote Communication & Assistance",
+        "description": "Stay connected with residents and staff"
+      }
+    }
+  },
+  "bms": {
+    "title": "Smart Building Management System",
+    "subtitle": "Comprehensive building management powered by IoT & AI",
+    "cta": "Contact Us",
+    "features": {
+      "cameras": {
+        "title": "Existing IP Cameras Integration",
+        "description": "Leverage your current camera infrastructure"
+      },
+      "storage": {
+        "title": "Secure Cloud Storage",
+        "description": "All data is stored in an encrypted cloud environment"
+      },
+      "entry": {
+        "title": "Automated Entry Control",
+        "description": "Smart access management for registered users"
+      },
+      "surveillance": {
+        "title": "AI-Powered Surveillance",
+        "description": "Intelligent monitoring with real-time event detection"
+      },
+      "videoClipping": {
+        "title": "Smart Video Clipping",
+        "description": "AI-driven video clipping for better traceability"
+      },
+      "affordable": {
+        "title": "Handy and Affordable",
+        "description": "Cost-effective solution for modern buildings"
+      }
+    }
+  },
+  "api": {
+    "title": "Open API Platform",
+    "subtitle": "Integrate GoCheckIn with your existing systems",
+    "features": {
+      "documentation": {
+        "title": "Comprehensive Documentation",
+        "description": "Detailed API guides and examples"
+      },
+      "authentication": {
+        "title": "Secure Authentication",
+        "description": "Industry-standard security protocols"
+      },
+      "endpoints": {
+        "title": "RESTful Endpoints",
+        "description": "Easy-to-use API endpoints"
+      },
+      "webhooks": {
+        "title": "Real-time Webhooks",
+        "description": "Instant notifications and updates"
+      }
+    }
+  },
+  "about": {
+    "title": "About GoCheckIn",
+    "subtitle": "Revolutionizing building management with smart technology",
+    "description": "GoCheckIn combines cutting-edge IoT and AI technologies to provide a comprehensive solution for modern building management. Our platform offers seamless check-in experiences and powerful building management capabilities, all while maintaining the highest standards of security and affordability.",
+    "mission": "Our mission is to transform traditional building management into a smart, efficient, and user-friendly experience. By leveraging existing infrastructure and adding intelligent software layers, we help property managers reduce costs, enhance security, and improve the overall experience for both managers and users.",
+    "cta": "Contact Us",
+    "features": {
+      "iot": "IoT Integration",
+      "ai": "AI Technology",
+      "security": "Cloud Security",
+      "access": "Smart Access",
+      "monitoring": "Real-time Monitoring",
+      "affordable": "Cost Effective"
+    },
+    "vision": {
+      "title": "Our Vision",
+      "description": "We envision a future where building management is completely automated, secure, and accessible from anywhere. GoCheckIn is leading this transformation with innovative solutions that adapt to the evolving needs of modern properties.",
+      "innovation": "Continuous innovation in AI and IoT technologies",
+      "security": "Uncompromising commitment to security and privacy",
+      "partnership": "Strong partnerships with property managers and technology providers"
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Get in touch with our team",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "submit": "Send Message"
+    }
+  },
+  "footer": {
+    "copyright": "© 2024 GoCheckIn. All rights reserved.",
+    "quickLinks": "Quick Links",
+    "social": "Follow Us"
+  },
+  "languageSwitch": {
+    "toJapanese": "Switch to Japanese",
+    "toChinese": "Switch to Simplified Chinese",
+    "toEnglish": "Switch to English"
+  },
+  "sectionHeaders": {
+    "checkinFeatures": "Smart Check-in Features & Solutions",
+    "bmsFeatures": "Smart BMS Features & Solutions"
+  },
+  "features": {
+    "title": "Key Features",
+    "automated": {
+      "title": "Automated Check-in",
+      "description": "Utilize existing IP cameras to automate the check-in process"
+    },
+    "secure": {
+      "title": "Secure Cloud Storage",
+      "description": "All data is stored in an encrypted cloud environment"
+    },
+    "smartLock": {
+      "title": "Smart Lock Access",
+      "description": "Entry granted only to registered users via smart locks"
+    },
+    "surveillance": {
+      "title": "AI-Powered Surveillance",
+      "description": "Intelligent monitoring with real-time event detection"
+    },
+    "videoClipping": {
+      "title": "Smart Video Clipping",
+      "description": "AI-powered video analysis and clipping for better traceability",
+      "slides": {
+        "part1": {
+          "title": "Event Detection",
+          "description": "AI automatically detects and analyzes events in real-time"
+        },
+        "part2": {
+          "title": "Smart Clipping",
+          "description": "Automatically clips relevant video segments based on detected events"
+        },
+        "part3": {
+          "title": "Secure Storage",
+          "description": "All clips are securely stored and easily accessible"
+        }
+      },
+      "features": {
+        "detection": {
+          "title": "AI Event Detection",
+          "description": "Advanced AI algorithms detect and analyze events in real-time"
+        },
+        "clipping": {
+          "title": "Smart Clipping",
+          "description": "Automatically clips relevant video segments based on detected events"
+        },
+        "storage": {
+          "title": "Secure Storage",
+          "description": "All clips are securely stored with encryption and easy access"
+        }
+      }
+    },
+    "hostPortal": {
+      "title": "Host Portal",
+      "description": "User-friendly interface to manage check-ins and system operations",
+      "tabs": {
+        "dashboard": "Dashboard View",
+        "management": "Management View"
+      },
+      "tab1": {
+        "description": "Comprehensive dashboard showing real-time check-in status, occupancy rates, and system alerts"
+      },
+      "tab2": {
+        "description": "Advanced management interface for configuring system settings, managing users, and generating reports"
+      },
+      "cta": "Get Started"
+    },
+    "openApi": {
+      "title": "Open API Integration",
+      "description": "Seamlessly integrate with your existing systems through our comprehensive API"
+    },
+    "affordable": {
+      "title": "Affordable Management",
+      "description": "Cost-effective building management solution with flexible pricing options"
+    }
+  },
+  "solutions": {
+    "title": "Our Solutions",
+    "description": "Comprehensive building management solutions powered by IoT and AI",
+    "items": {
+      "cameras": {
+        "title": "IP Camera Integration",
+        "description": "Seamlessly integrate with your existing IP camera infrastructure"
+      },
+      "cloud": {
+        "title": "Cloud Storage",
+        "description": "Secure and scalable cloud storage for all your data"
+      },
+      "checkin": {
+        "title": "Smart Check-in",
+        "description": "Automated and contactless check-in process"
+      },
+      "entry": {
+        "title": "Entry Control",
+        "description": "Smart access management for registered users"
+      },
+      "smartlock": {
+        "title": "Smart Locks",
+        "description": "Secure and convenient access control system"
+      },
+      "surveillance": {
+        "title": "AI Surveillance",
+        "description": "Intelligent monitoring with real-time event detection"
+      },
+      "openApi": {
+        "title": "Open API",
+        "description": "Seamlessly integrate with your existing systems"
+      },
+      "buildingManagement": {
+        "title": "Building Management",
+        "description": "Comprehensive building management solution"
+      }
+    }
+  },
+  "hostPortal": {
+    "title": "Host Portal",
+    "description": "User-friendly interface to manage check-ins and system operations",
+    "tabs": {
+      "dashboard": "Dashboard View",
+      "management": "Management View"
+    },
+    "tab1": {
+      "description": "Comprehensive dashboard showing real-time check-in status, occupancy rates, and system alerts"
+    },
+    "tab2": {
+      "description": "Advanced management interface for configuring system settings, managing users, and generating reports"
+    },
+    "cta": "Get Started"
+  },
+  "pricing": {
+    "title": "Pricing Plans",
+    "subtitle": "Smart Lock Comparison Table",
+    "table": {
+      "headers": {
+        "model": "Model",
+        "color": "Color",
+        "battery": "Power Supply",
+        "connectivity": "Connectivity",
+        "unlockMethods": "Unlock Methods",
+        "autoLock": "Auto Lock",
+        "installation": "Installation",
+        "price": "Retail Price",
+        "workingFee": "Installation Fee (Reference)"
+      },
+      "devices": {
+        "STK001DC": {
+          "name": "STK001DC",
+          "color": "Silver",
+          "battery": "AA Batteries x 2",
+          "connectivity": "・315MHz Low Power Radio",
+          "unlockMethods": "・PIN Code\n・Dedicated Remote\n・NFC (FeliCa not supported)\n・or Fingerprint\n・Other: Cloud not supported",
+          "autoLock": "Auto Lock",
+          "installation": "Screw mounting installation",
+          "price": "¥44,000 (tax included)",
+          "workingFee": "¥15,000"
+        },
+        "STK001AC": {
+          "name": "STK001AC",
+          "color": "Silver",
+          "battery": "100V AC Adapter",
+          "connectivity": "・315MHz Low Power Radio\n・Zigbee",
+          "unlockMethods": "・PIN Code\n・Dedicated Remote\n・NFC (FeliCa not supported)\n・Fingerprint\n・Power Failure Unlock\n・Other methods: Cloud Plan",
+          "autoLock": "Timer Auto Lock",
+          "installation": "AC adapter installation required",
+          "price": "¥55,000 (tax included)",
+          "workingFee": "¥30,000"
+        },
+        "MAG001AC": {
+          "name": "MAG001AC",
+          "color": "Silver",
+          "battery": "100V AC Adapter",
+          "connectivity": "・315MHz Low Power Radio\n・Zigbee",
+          "unlockMethods": "・PIN Code\n・Dedicated Remote\n・NFC (FeliCa not supported)\n・Fingerprint\n・Power Failure Unlock\n・Other methods: Cloud Plan",
+          "autoLock": "Timer Auto Lock",
+          "installation": "AC adapter installation required",
+          "price": "¥55,000 (tax included)",
+          "workingFee": "¥30,000"
+        },
+        "MTR001DC": {
+          "name": "MTR001DC",
+          "color": "Silver",
+          "battery": "AA Batteries x 6",
+          "connectivity": "・315MHz Low Power Radio\n・Zigbee",
+          "unlockMethods": "・PIN Code\n・Dedicated Remote\n・NFC (FeliCa not supported)\n・Fingerprint\n・USB-C Emergency Power\n・Physical Key\n・Other methods: Cloud Plan",
+          "autoLock": "Auto Lock",
+          "installation": "Door drilling required",
+          "price": "¥66,000 (tax included)",
+          "workingFee": "¥20,000"
+        },
+        "MTR001AC": {
+          "name": "MTR001AC",
+          "color": "Silver",
+          "battery": "100V AC Adapter",
+          "connectivity": "・315MHz Low Power Radio\n・Zigbee",
+          "unlockMethods": "・PIN Code\n・Dedicated Remote\n・NFC (FeliCa not supported)\n・Fingerprint\n・Power Failure Unlock\n・Physical Key\n・Other methods: Cloud Plan",
+          "autoLock": "Timer Auto Lock",
+          "installation": "Door drilling and wiring required\nAC adapter installation required",
+          "price": "¥88,000 (tax included)",
+          "workingFee": "¥100,000"
+        }
+      }
+    },
+    "cloudPlans": {
+      "title": "Cloud Plans",
+      "headers": {
+        "features": "Features",
+        "planFeatures": "Plan Features",
+        "planDetails": "Plan Details",
+        "price": "Smart Lock Monthly Fee",
+        "cameraFee": "Face Recognition Monthly Option",
+        "videoClippingFee": "Surveillance Recording Monthly Option",
+        "iotGateway": "IoT Gateway Sales Price",
+        "airbnbFee": "Airbnb Integration Monthly Option"
+      },
+      "plans": {
+        "none": {
+          "name": "No Cloud Plan"
+        },
+        "basic": {
+          "name": "Basic",
+          "planFeatures": "・App Unlock",
+          "planDetails": "・No lock limit\n・Up to 5 app users",
+          "price": "¥1,100/unit (tax included)",
+          "cameraFee": "-",
+          "videoClippingFee": "-",
+          "iotGateway": "¥55,000/unit (tax included)",
+          "airbnbFee": "-"
+        },
+        "professional": {
+          "name": "Professional",
+          "planFeatures": "・All Basic features\n・Face Recognition Unlock",
+          "planDetails": "・No lock limit\n・Up to 100 app users\n・Up to 100 face recognition users\n・Up to 4 face recognition cameras\n・Up to 4 recording cameras",
+          "price": "¥1,100/unit (tax included)",
+          "cameraFee": "¥1,100/camera (tax included)",
+          "videoClippingFee": "¥1,100 (tax included)\n*1GB cloud storage",
+          "iotGateway": "¥55,000/unit (tax included)",
+          "airbnbFee": "-"
+        },
+        "business": {
+          "name": "Business",
+          "planFeatures": "・All Professional features\n・Dynamic PIN Code Notification\n・Airbnb Integration\n・Cleaning Schedule",
+          "planDetails": "・No lock limit\n・Up to 1,000 app users\n・Up to 1,000 face recognition users\n・No face recognition camera limit\n・No recording camera limit",
+          "price": "¥1,650/unit (tax included)",
+          "cameraFee": "¥1,100/camera (tax included)",
+          "videoClippingFee": "¥2,200 (tax included)\n*3GB cloud storage",
+          "iotGateway": "Specs negotiable",
+          "airbnbFee": "¥1,100/property (tax included)"
+        },
+        "enterprise": {
+          "name": "Enterprise",
+          "planFeatures": "・All Business features\n・Advanced Calendar Management\n・Building Management System Integration\n・API Access",
+          "planDetails": "・No lock limit\n・No app user limit\n・No visitor limit\n・No face recognition camera limit\n・No recording camera limit",
+          "price": "¥2,200/unit (tax included)",
+          "cameraFee": "¥1,100/camera (tax included)",
+          "videoClippingFee": "¥55,000 (tax included)\n*100GB cloud storage",
+          "iotGateway": "Specs negotiable",
+          "airbnbFee": "¥1,100/property (tax included)"
+        }
+      }
+    },
+    "calculator": {
+      "title": "Pricing Calculator",
+      "selectLocks": "Select Smart Locks",
+      "selectPlan": "Select Cloud Plan",
+      "timePeriod": "Time Period",
+      "years": "Number of Years",
+      "yearsUnit": "years",
+      "optionalFeatures": "Optional Features",
+      "quantity": "Quantity",
+      "faceRecognitionCameras": "Face Recognition Cameras",
+      "videoRecording": "Video Recording",
+      "airbnbIntegration": "Airbnb Integration",
+      "airbnbListings": "Airbnb Listings",
+      "listings": "listings",
+      "iotGateway": "IoT Gateway",
+      "costSummary": "Cost Summary",
+      "oneTimeCosts": "One-time Costs",
+      "monthlyCosts": "Monthly Costs",
+      "installationFee": "Installation Fee",
+      "locks": "locks",
+      "month": "month",
+      "totalOneTime": "Total One-time Cost",
+      "totalMonthly": "Total Monthly Cost",
+      "totalForPeriod": "Total Cost"
+    }
+  },
+  "buildingManagement": {
+    "title": "Building Management",
+    "description": "Comprehensive building management solution powered by IoT and AI",
+    "features": {
+      "access": {
+        "title": "Access Control",
+        "description": "Smart access management for registered users"
+      },
+      "monitoring": {
+        "title": "Real-time Monitoring",
+        "description": "Live monitoring of building systems and activities"
+      },
+      "maintenance": {
+        "title": "Maintenance Management",
+        "description": "Streamlined maintenance and repair workflows"
+      },
+      "communication": {
+        "title": "Communication Tools",
+        "description": "Built-in communication system for residents and staff"
+      }
+    },
+    "dashboard": {
+      "title": "Building Management Dashboard",
+      "subtitle": "Floor Layout and Smart Device Assignment",
+      "deviceManagement": "Smart Device Management",
+      "features": {
+        "associate": "Associate smart devices to rooms and spaces",
+        "manage": "Manage temperature sensors, IP Cameras, Smart Locks, and lighting systems",
+        "interface": "Intuitive digital twin interface for alarms and notifications",
+        "monitoring": "Comprehensive monitoring and control dashboard"
+      },
+      "learnMore": "Learn More",
+      "description": "The layout setting feature serves as a digital twin facade for alarms and notifications, providing an intuitive and comprehensive management experience."
+    },
+    "pricing": {
+      "title": "Pricing Plans",
+      "description": "Choose the plan that best fits your needs",
+      "plans": {
+        "basic": {
+          "title": "Basic",
+          "price": "$99/month",
+          "description": "Perfect for small buildings"
+        },
+        "standard": {
+          "title": "Standard",
+          "price": "$199/month",
+          "description": "Ideal for medium-sized buildings"
+        },
+        "premium": {
+          "title": "Premium",
+          "price": "Custom",
+          "description": "For large buildings with custom needs"
+        }
+      }
+    },
+    "cta": "Get Started"
+  },
+  "smartDevices": {
+    "title": "Smart Devices",
+    "subtitle": "Smart Lock Comparison Table",
+    "table": {
+      "headers": {
+        "model": "Model",
+        "color": "Color",
+        "battery": "Power Supply",
+        "connectivity": "Connectivity",
+        "unlockMethods": "Unlock Methods",
+        "autoLock": "Auto Lock",
+        "installation": "Installation",
+        "price": "Retail Price",
+        "workingFee": "Installation Fee (Reference)"
+      },
+      "devices": {
+        "STK001DC": {
+          "name": "STK001DC",
+          "color": "Silver",
+          "battery": "AA Batteries x 2",
+          "connectivity": "・315MHz Low Power Radio",
+          "unlockMethods": "・PIN Code\n・Dedicated Remote\n・NFC (FeliCa not supported)\n・or Fingerprint\n・Other: Cloud not supported",
+          "autoLock": "Auto Lock",
+          "installation": "Screw mounting installation",
+          "price": "¥44,000 (tax included)",
+          "workingFee": "¥15,000"
+        },
+        "STK001AC": {
+          "name": "STK001AC",
+          "color": "Silver",
+          "battery": "100V AC Adapter",
+          "connectivity": "・315MHz Low Power Radio\n・Zigbee",
+          "unlockMethods": "・PIN Code\n・Dedicated Remote\n・NFC (FeliCa not supported)\n・Fingerprint\n・Power Failure Unlock\n・Other methods: Cloud Plan",
+          "autoLock": "Timer Auto Lock",
+          "installation": "AC adapter installation required",
+          "price": "¥55,000 (tax included)",
+          "workingFee": "¥30,000"
+        },
+        "MAG001AC": {
+          "name": "MAG001AC",
+          "color": "Silver",
+          "battery": "100V AC Adapter",
+          "connectivity": "・315MHz Low Power Radio\n・Zigbee",
+          "unlockMethods": "・PIN Code\n・Dedicated Remote\n・NFC (FeliCa not supported)\n・Fingerprint\n・Power Failure Unlock\n・Other methods: Cloud Plan",
+          "autoLock": "Timer Auto Lock",
+          "installation": "AC adapter installation required",
+          "price": "¥55,000 (tax included)",
+          "workingFee": "¥30,000"
+        },
+        "MTR001DC": {
+          "name": "MTR001DC",
+          "color": "Silver",
+          "battery": "AA Batteries x 6",
+          "connectivity": "・315MHz Low Power Radio\n・Zigbee",
+          "unlockMethods": "・PIN Code\n・Dedicated Remote\n・NFC (FeliCa not supported)\n・Fingerprint\n・USB-C Emergency Power\n・Physical Key\n・Other methods: Cloud Plan",
+          "autoLock": "Auto Lock",
+          "installation": "Door drilling required",
+          "price": "¥66,000 (tax included)",
+          "workingFee": "¥20,000"
+        },
+        "MTR001AC": {
+          "name": "MTR001AC",
+          "color": "Silver",
+          "battery": "100V AC Adapter",
+          "connectivity": "・315MHz Low Power Radio\n・Zigbee",
+          "unlockMethods": "・PIN Code\n・Dedicated Remote\n・NFC (FeliCa not supported)\n・Fingerprint\n・Power Failure Unlock\n・Physical Key\n・Other methods: Cloud Plan",
+          "autoLock": "Timer Auto Lock",
+          "installation": "Door drilling and wiring required\nAC adapter installation required",
+          "price": "¥88,000 (tax included)",
+          "workingFee": "¥100,000"
+        }
+      },
+      "notes": {
+        "specialty": "Note: Specialty features may vary by model",
+        "cloud": "Cloud features require subscription"
+      }
+    },
+    "cloudPlans": {
+      "title": "Cloud Plans",
+      "headers": {
+        "features": "Features",
+        "price": "Smart Lock Monthly Fee",
+        "cameraFee": "Face Recognition Monthly Option",
+        "videoClippingFee": "Surveillance Recording Monthly Option",
+        "planFeatures": "Plan Features",
+        "iotGateway": "IoT Gateway",
+        "other": "Other"
+      },
+      "plans": {
+        "basic": {
+          "name": "Basic",
+          "price": "¥1,100/unit (tax included)",
+          "cameraFee": "-",
+          "videoClippingFee": "-",
+          "planFeatures": "・App Unlock",
+          "iotGateway": "Required",
+          "other": "・No lock limit\n・Up to 5 app users"
+        },
+        "professional": {
+          "name": "Professional",
+          "price": "¥1,100/unit (tax included)",
+          "cameraFee": "¥1,100/camera (tax included)",
+          "videoClippingFee": "¥1,100 (tax included)\n*1GB cloud storage",
+          "planFeatures": "・All Basic features\n・Face Recognition Unlock",
+          "iotGateway": "Required",
+          "other": "・No lock limit\n・Up to 100 app users\n・Up to 100 face recognition users"
+        },
+        "business": {
+          "name": "Business",
+          "price": "¥1,650/unit (tax included)",
+          "cameraFee": "¥1,100/camera (tax included)",
+          "videoClippingFee": "¥2,200 (tax included)\n*3GB cloud storage",
+          "planFeatures": "・All Professional features\n・Dynamic PIN Code Notification\n・Airbnb Integration\n・Cleaning Schedule",
+          "iotGateway": "Specs negotiable",
+          "other": "・No lock limit\n・Up to 1,000 app users\n・Airbnb Integration: ¥1,100/property/month (tax included)"
+        },
+        "enterprise": {
+          "name": "Enterprise",
+          "price": "¥2,200/unit (tax included)",
+          "cameraFee": "¥1,100/camera (tax included)",
+          "videoClippingFee": "¥55,000 (tax included)\n*100GB cloud storage",
+          "planFeatures": "・All Business features\n・Advanced Calendar Management\n・Building Management System Integration\n・API Access",
+          "iotGateway": "Specs negotiable",
+          "other": "・No limits\n・Airbnb Integration: ¥1,100/property/month (tax included)"
+        }
+      },
+      "notes": {
+        "pricing": "All prices include tax",
+        "support": "24/7 support available for Business and Enterprise plans"
+      }
+    }
+  }
+}

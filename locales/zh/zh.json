@@ -1,0 +1,650 @@
+{
+  "nav": {
+    "home": "首页",
+    "checkin": "智能签到",
+    "bms": "智能楼宇管理",
+    "api": "API",
+    "about": "关于我们",
+    "contact": "联系我们",
+    "pricing": "价格"
+  },
+  "hero": {
+    "title": "智能楼宇管理与签到解决方案",
+    "subtitle": "结合物联网和人工智能，提供无缝、安全、经济的楼宇管理解决方案，支持开放API集成",
+    "cta": "立即开始"
+  },
+  "checkin": {
+    "title": "智能签到解决方案",
+    "subtitle": "通过我们的智能解决方案简化您的签到流程",
+    "features": {
+      "automated": {
+        "title": "自动签到",
+        "description": "利用现有IP摄像头自动化签到流程"
+      },
+      "external": {
+        "title": "外部API集成",
+        "description": "与您现有系统无缝集成"
+      },
+      "resource": {
+        "title": "资源与日程规划",
+        "description": "智能分配和管理楼宇资源"
+      },
+      "guest": {
+        "title": "访客登记",
+        "description": "自动化访客管理和访问控制"
+      },
+      "locks": {
+        "title": "智能锁",
+        "description": "安全便捷的访问控制系统"
+      },
+      "communication": {
+        "title": "远程通信与协助",
+        "description": "与住户和员工保持联系"
+      }
+    }
+  },
+  "bms": {
+    "title": "智能楼宇管理系统",
+    "subtitle": "由物联网和人工智能驱动的全面楼宇管理",
+    "cta": "联系我们",
+    "features": {
+      "cameras": {
+        "title": "现有IP摄像头集成",
+        "description": "利用您当前的摄像头基础设施"
+      },
+      "storage": {
+        "title": "安全云存储",
+        "description": "所有数据都存储在加密的云环境中"
+      },
+      "entry": {
+        "title": "自动入口控制",
+        "description": "为注册用户提供智能访问管理"
+      },
+      "surveillance": {
+        "title": "人工智能监控",
+        "description": "具有实时事件检测功能的智能监控"
+      },
+      "videoClipping": {
+        "title": "智能视频剪辑",
+        "description": "人工智能驱动的视频剪辑，提高可追溯性"
+      },
+      "affordable": {
+        "title": "便捷实惠",
+        "description": "现代建筑的经济实惠解决方案"
+      }
+    }
+  },
+  "api": {
+    "title": "开放API平台",
+    "subtitle": "将GoCheckIn与您现有的系统集成",
+    "features": {
+      "documentation": {
+        "title": "全面文档",
+        "description": "详细的API指南和示例"
+      },
+      "authentication": {
+        "title": "安全认证",
+        "description": "行业标准安全协议"
+      },
+      "endpoints": {
+        "title": "RESTful端点",
+        "description": "易于使用的API端点"
+      },
+      "webhooks": {
+        "title": "实时Webhooks",
+        "description": "即时通知和更新"
+      }
+    }
+  },
+  "about": {
+    "title": "关于GoCheckIn",
+    "subtitle": "用智能技术革新楼宇管理",
+    "description": "GoCheckIn结合了前沿的物联网和人工智能技术，为现代楼宇管理提供全面解决方案。我们的平台提供无缝的签到体验和强大的楼宇管理功能，同时保持最高标准的安全性和经济性。",
+    "mission": "我们的使命是将传统楼宇管理转变为智能、高效和用户友好的体验。通过利用现有基础设施并添加智能软件层，我们帮助物业管理者降低成本、增强安全性，并改善管理者和用户的整体体验。",
+    "cta": "联系我们",
+    "features": {
+      "iot": "物联网集成",
+      "ai": "人工智能技术",
+      "security": "云安全",
+      "access": "智能访问",
+      "monitoring": "实时监控",
+      "affordable": "经济实惠"
+    },
+    "vision": {
+      "title": "我们的愿景",
+      "description": "我们设想未来楼宇管理将完全自动化、安全且可从任何地方访问。GoCheckIn正在通过适应现代物业不断发展需求的创新解决方案引领这一转变。",
+      "innovation": "人工智能和物联网技术的持续创新",
+      "security": "对安全和隐私的坚定承诺",
+      "partnership": "与物业管理者和技术提供商的强大合作伙伴关系"
+    }
+  },
+  "contact": {
+    "title": "联系我们",
+    "subtitle": "与我们的团队取得联系",
+    "form": {
+      "name": "姓名",
+      "email": "电子邮件",
+      "message": "留言",
+      "submit": "发送消息"
+    }
+  },
+  "footer": {
+    "copyright": "© 2024 GoCheckIn. 保留所有权利。",
+    "quickLinks": "快速链接",
+    "social": "关注我们"
+  },
+  "languageSwitch": {
+    "toJapanese": "切换到日语",
+    "toChinese": "切换到中文",
+    "toEnglish": "切换到英文"
+  },
+  "sectionHeaders": {
+    "checkinFeatures": "智能签到功能与解决方案",
+    "bmsFeatures": "智能楼宇管理功能与解决方案"
+  },
+  "features": {
+    "title": "主要功能",
+    "automated": {
+      "title": "自动签到",
+      "description": "利用现有IP摄像头自动化签到流程"
+    },
+    "secure": {
+      "title": "安全云存储",
+      "description": "所有数据都存储在加密的云环境中"
+    },
+    "smartLock": {
+      "title": "智能锁访问",
+      "description": "仅通过智能锁允许注册用户进入"
+    },
+    "surveillance": {
+      "title": "人工智能监控",
+      "description": "具有实时事件检测功能的智能监控"
+    },
+    "videoClipping": {
+      "title": "智能视频剪辑",
+      "description": "人工智能驱动的视频分析和剪辑，提高可追溯性",
+      "slides": {
+        "part1": {
+          "title": "事件检测",
+          "description": "人工智能自动实时检测和分析事件"
+        },
+        "part2": {
+          "title": "智能剪辑",
+          "description": "根据检测到的事件自动剪辑相关视频片段"
+        },
+        "part3": {
+          "title": "安全存储",
+          "description": "所有剪辑都安全存储且易于访问"
+        }
+      },
+      "features": {
+        "detection": {
+          "title": "人工智能事件检测",
+          "description": "先进的人工智能算法实时检测和分析事件"
+        },
+        "clipping": {
+          "title": "智能剪辑",
+          "description": "根据检测到的事件自动剪辑相关视频片段"
+        },
+        "storage": {
+          "title": "安全存储",
+          "description": "所有剪辑都通过加密安全存储且易于访问"
+        }
+      }
+    },
+    "hostPortal": {
+      "title": "主机门户",
+      "description": "用户友好的界面，管理签到和系统操作",
+      "tabs": {
+        "dashboard": "仪表板视图",
+        "management": "管理视图"
+      },
+      "tab1": {
+        "description": "全面的仪表板，显示实时签到状态、占用率和系统警报"
+      },
+      "tab2": {
+        "description": "高级管理界面，用于配置系统设置、管理用户和生成报告"
+      },
+      "cta": "立即开始"
+    },
+    "openApi": {
+      "title": "开放API集成",
+      "description": "通过我们全面的API与您现有的系统无缝集成"
+    },
+    "affordable": {
+      "title": "经济实惠的管理系统",
+      "description": "具有灵活定价选项的经济实惠楼宇管理解决方案"
+    }
+  },
+  "solutions": {
+    "title": "我们的解决方案",
+    "description": "由物联网和人工智能驱动的全面楼宇管理解决方案",
+    "items": {
+      "cameras": {
+        "title": "IP摄像头集成",
+        "description": "与您现有的IP摄像头基础设施无缝集成"
+      },
+      "cloud": {
+        "title": "云存储",
+        "description": "安全且可扩展的云存储，适用于所有数据"
+      },
+      "checkin": {
+        "title": "智能签到",
+        "description": "自动化和非接触式签到流程"
+      },
+      "entry": {
+        "title": "入口控制",
+        "description": "为注册用户提供智能访问管理"
+      },
+      "smartlock": {
+        "title": "智能锁",
+        "description": "安全便捷的访问控制系统"
+      },
+      "surveillance": {
+        "title": "人工智能监控",
+        "description": "具有实时事件检测功能的智能监控"
+      },
+      "openApi": {
+        "title": "开放API",
+        "description": "与您现有系统无缝集成"
+      },
+      "buildingManagement": {
+        "title": "楼宇管理",
+        "description": "全面的楼宇管理解决方案"
+      }
+    }
+  },
+  "pricing": {
+    "title": "定价计划",
+    "subtitle": "智能锁对比表",
+    "table": {
+      "headers": {
+        "model": "型号",
+        "color": "颜色",
+        "battery": "电源",
+        "connectivity": "通信",
+        "unlockMethods": "解锁方式",
+        "autoLock": "自动锁定",
+        "installation": "安装工程",
+        "price": "销售价格",
+        "workingFee": "安装费用（参考）"
+      },
+      "devices": {
+        "STK001DC": {
+          "name": "STK001DC",
+          "color": "银色",
+          "battery": "AA电池 x 2",
+          "connectivity": "・315MHz小功率无线",
+          "unlockMethods": "・PIN码\n・专用遥控器\n・NFC（不支持FeliCa）\n・或指纹\n・其他：不支持云",
+          "autoLock": "自动上锁",
+          "installation": "螺丝安装",
+          "price": "¥44,000（含税）",
+          "workingFee": "¥15,000"
+        },
+        "STK001AC": {
+          "name": "STK001AC",
+          "color": "银色",
+          "battery": "100V交流适配器",
+          "connectivity": "・315MHz小功率无线\n・Zigbee",
+          "unlockMethods": "・PIN码\n・专用遥控器\n・NFC（不支持FeliCa）\n・指纹\n・停电解锁\n・其他方式：云计划",
+          "autoLock": "定时自动上锁",
+          "installation": "需要交流适配器安装",
+          "price": "¥55,000（含税）",
+          "workingFee": "¥30,000"
+        },
+        "MAG001AC": {
+          "name": "MAG001AC",
+          "color": "银色",
+          "battery": "100V交流适配器",
+          "connectivity": "・315MHz小功率无线\n・Zigbee",
+          "unlockMethods": "・PIN码\n・专用遥控器\n・NFC（不支持FeliCa）\n・指纹\n・停电解锁\n・其他方式：云计划",
+          "autoLock": "定时自动上锁",
+          "installation": "需要交流适配器安装",
+          "price": "¥55,000（含税）",
+          "workingFee": "¥30,000"
+        },
+        "MTR001DC": {
+          "name": "MTR001DC",
+          "color": "银色",
+          "battery": "AA电池 x 6",
+          "connectivity": "・315MHz小功率无线\n・Zigbee",
+          "unlockMethods": "・PIN码\n・专用遥控器\n・NFC（不支持FeliCa）\n・指纹\n・USB-C紧急电源\n・物理钥匙\n・其他方式：云计划",
+          "autoLock": "自动上锁",
+          "installation": "需要门钻孔",
+          "price": "¥66,000（含税）",
+          "workingFee": "¥20,000"
+        },
+        "MTR001AC": {
+          "name": "MTR001AC",
+          "color": "银色",
+          "battery": "100V交流适配器",
+          "connectivity": "・315MHz小功率无线\n・Zigbee",
+          "unlockMethods": "・PIN码\n・专用遥控器\n・NFC（不支持FeliCa）\n・指纹\n・停电解锁\n・物理钥匙\n・其他方式：云计划",
+          "autoLock": "定时自动上锁",
+          "installation": "需要门钻孔和布线\n需要交流适配器安装",
+          "price": "¥88,000（含税）",
+          "workingFee": "¥100,000"
+        }
+      }
+    },
+    "cloudPlans": {
+      "title": "云计划",
+      "headers": {
+        "features": "功能",
+        "planFeatures": "计划功能",
+        "planDetails": "计划详情",
+        "price": "智能锁月费",
+        "cameraFee": "人脸识别月费选项",
+        "videoClippingFee": "监控录像月费选项",
+        "iotGateway": "物联网网关销售价格",
+        "airbnbFee": "Airbnb集成月费选项"
+      },
+      "plans": {
+        "none": {
+          "name": "无云计划"
+        },
+        "basic": {
+          "name": "基础版",
+          "planFeatures": "・应用解锁",
+          "planDetails": "・锁使用台数无上限\n・应用用户数5名为止",
+          "price": "¥1,100/台（含税）",
+          "cameraFee": "-",
+          "videoClippingFee": "-",
+          "iotGateway": "¥55,000/台（含税）",
+          "airbnbFee": "-"
+        },
+        "professional": {
+          "name": "专业版",
+          "planFeatures": "・基础版的所有功能\n・人脸识别解锁",
+          "planDetails": "・锁使用台数无上限\n・应用用户数100名为止\n・人脸识别用户数100名为止\n・人脸识别摄像头数4台为止\n・录像摄像头数4台为止",
+          "price": "¥1,100/台（含税）",
+          "cameraFee": "¥1,100/摄像头（含税）",
+          "videoClippingFee": "¥1,100（含税）\n*1GB云存储",
+          "iotGateway": "¥55,000/台（含税）",
+          "airbnbFee": "-"
+        },
+        "business": {
+          "name": "商业版",
+          "planFeatures": "・专业版的所有功能\n・动态PIN码通知\n・Airbnb集成\n・清洁计划",
+          "planDetails": "・锁使用台数无上限\n・应用用户数1,000名为止\n・人脸识别用户数1,000名为止\n・人脸识别摄像头数无上限\n・录像摄像头数无上限",
+          "price": "¥1,650/台（含税）",
+          "cameraFee": "¥1,100/摄像头（含税）",
+          "videoClippingFee": "¥2,200（含税）\n*3GB云存储",
+          "iotGateway": "规格可协商",
+          "airbnbFee": "¥1,100/物业（含税）"
+        },
+        "enterprise": {
+          "name": "企业版",
+          "planFeatures": "・商业版的所有功能\n・高级日历管理功能\n・楼宇管理系统集成\n・API使用",
+          "planDetails": "・锁使用台数无上限\n・应用用户数无限制\n・访客数无限制\n・人脸识别摄像头数无上限\n・录像摄像头数无上限",
+          "price": "¥2,200/台（含税）",
+          "cameraFee": "¥1,100/摄像头（含税）",
+          "videoClippingFee": "¥55,000（含税）\n*100GB云存储",
+          "iotGateway": "规格可协商",
+          "airbnbFee": "¥1,100/物业（含税）"
+        }
+      }
+    },
+    "calculator": {
+      "title": "价格计算器",
+      "selectLocks": "选择智能锁",
+      "selectPlan": "选择云计划",
+      "timePeriod": "时间期间",
+      "years": "年数",
+      "yearsUnit": "年",
+      "optionalFeatures": "可选功能",
+      "quantity": "数量",
+      "faceRecognitionCameras": "人脸识别摄像头",
+      "videoRecording": "视频录制",
+      "airbnbIntegration": "Airbnb集成",
+      "airbnbListings": "Airbnb房源数量",
+      "listings": "个房源",
+      "iotGateway": "物联网网关",
+      "costSummary": "费用摘要",
+      "oneTimeCosts": "一次性费用",
+      "monthlyCosts": "月费",
+      "installationFee": "安装费",
+      "locks": "锁",
+      "month": "月",
+      "totalOneTime": "一次性费用总计",
+      "totalMonthly": "月费总计",
+      "totalForPeriod": "总费用"
+    }
+  },
+  "buildingManagement": {
+    "title": "楼宇管理",
+    "description": "由物联网和人工智能驱动的全面楼宇管理解决方案",
+    "features": {
+      "access": {
+        "title": "访问控制",
+        "description": "安全管理建筑物入口和敏感区域"
+      },
+      "monitoring": {
+        "title": "实时监控",
+        "description": "全天候监控建筑物活动和系统"
+      },
+      "maintenance": {
+        "title": "维护管理",
+        "description": "跟踪和安排定期维护任务"
+      },
+      "communication": {
+        "title": "通信工具",
+        "description": "与租户和员工保持联系"
+      }
+    },
+    "dashboard": {
+      "title": "楼宇管理仪表板",
+      "subtitle": "楼层布局和智能设备分配",
+      "deviceManagement": "智能设备管理",
+      "features": {
+        "associate": "将智能设备关联到房间和空间",
+        "manage": "管理温度传感器、IP摄像头、智能锁和照明系统",
+        "interface": "用于警报和通知的直观数字孪生界面",
+        "monitoring": "全面的监控和控制仪表板"
+      },
+      "learnMore": "了解更多",
+      "description": "布局设置功能作为警报和通知的数字孪生外观，提供直观和全面的管理体验。"
+    },
+    "pricing": {
+      "title": "定价计划",
+      "basic": {
+        "title": "基础版",
+        "price": "¥499/月",
+        "features": [
+          "基本访问控制",
+          "云存储 (10GB)",
+          "标准支持",
+          "最多5个摄像头"
+        ]
+      },
+      "standard": {
+        "title": "标准版",
+        "price": "¥999/月",
+        "features": [
+          "高级访问控制",
+          "云存储 (50GB)",
+          "优先支持",
+          "最多15个摄像头",
+          "AI事件检测"
+        ]
+      },
+      "premium": {
+        "title": "高级版",
+        "price": "¥1999/月",
+        "features": [
+          "全面访问控制",
+          "无限云存储",
+          "24/7专属支持",
+          "无限摄像头",
+          "高级AI功能",
+          "自定义集成"
+        ]
+      }
+    },
+    "cta": "联系我们了解更多"
+  },
+  "videoClipping": {
+    "title": "智能视频剪辑",
+    "description": "人工智能驱动的视频分析和剪辑，提高可追溯性",
+    "slides": {
+      "part1": {
+        "title": "事件检测",
+        "description": "人工智能自动实时检测和分析事件"
+      },
+      "part2": {
+        "title": "智能剪辑",
+        "description": "根据检测到的事件自动剪辑相关视频片段"
+      },
+      "part3": {
+        "title": "安全存储",
+        "description": "所有剪辑都安全存储且易于访问"
+      }
+    },
+    "features": {
+      "detection": {
+        "title": "人工智能事件检测",
+        "description": "先进的人工智能算法实时检测和分析事件"
+      },
+      "clipping": {
+        "title": "智能剪辑",
+        "description": "根据检测到的事件自动剪辑相关视频片段"
+      },
+      "storage": {
+        "title": "安全存储",
+        "description": "所有剪辑都通过加密安全存储且易于访问"
+      }
+    }
+  },
+  "smartDevices": {
+    "title": "智能设备",
+    "subtitle": "智能锁对比表",
+    "table": {
+      "headers": {
+        "model": "型号",
+        "color": "颜色",
+        "battery": "电源",
+        "connectivity": "通信",
+        "unlockMethods": "解锁方式",
+        "autoLock": "自动锁定",
+        "installation": "安装工程",
+        "price": "销售价格",
+        "workingFee": "安装费用（参考）"
+      },
+      "devices": {
+        "STK001DC": {
+          "name": "STK001DC",
+          "color": "银色",
+          "battery": "AA电池 x 2",
+          "connectivity": "・315MHz小功率无线",
+          "unlockMethods": "・PIN码\n・专用遥控器\n・NFC（不支持FeliCa）\n・或指纹\n・其他：不支持云",
+          "autoLock": "自动上锁",
+          "installation": "螺丝安装",
+          "price": "¥44,000（含税）",
+          "workingFee": "¥15,000"
+        },
+        "STK001AC": {
+          "name": "STK001AC",
+          "color": "银色",
+          "battery": "100V交流适配器",
+          "connectivity": "・315MHz小功率无线\n・Zigbee",
+          "unlockMethods": "・PIN码\n・专用遥控器\n・NFC（不支持FeliCa）\n・指纹\n・停电解锁\n・其他方式：云计划",
+          "autoLock": "定时自动上锁",
+          "installation": "需要交流适配器安装",
+          "price": "¥55,000（含税）",
+          "workingFee": "¥30,000"
+        },
+        "MAG001AC": {
+          "name": "MAG001AC",
+          "color": "银色",
+          "battery": "100V交流适配器",
+          "connectivity": "・315MHz小功率无线\n・Zigbee",
+          "unlockMethods": "・PIN码\n・专用遥控器\n・NFC（不支持FeliCa）\n・指纹\n・停电解锁\n・其他方式：云计划",
+          "autoLock": "定时自动上锁",
+          "installation": "需要交流适配器安装",
+          "price": "¥55,000（含税）",
+          "workingFee": "¥30,000"
+        },
+        "MTR001DC": {
+          "name": "MTR001DC",
+          "color": "银色",
+          "battery": "AA电池 x 6",
+          "connectivity": "・315MHz小功率无线\n・Zigbee",
+          "unlockMethods": "・PIN码\n・专用遥控器\n・NFC（不支持FeliCa）\n・指纹\n・USB-C紧急电源\n・物理钥匙\n・其他方式：云计划",
+          "autoLock": "自动上锁",
+          "installation": "需要门钻孔",
+          "price": "¥66,000（含税）",
+          "workingFee": "¥20,000"
+        },
+        "MTR001AC": {
+          "name": "MTR001AC",
+          "color": "银色",
+          "battery": "100V交流适配器",
+          "connectivity": "・315MHz小功率无线\n・Zigbee",
+          "unlockMethods": "・PIN码\n・专用遥控器\n・NFC（不支持FeliCa）\n・指纹\n・停电解锁\n・物理钥匙\n・其他方式：云计划",
+          "autoLock": "定时自动上锁",
+          "installation": "需要门钻孔和布线工程\n需要交流适配器安装",
+          "price": "¥88,000（含税）",
+          "workingFee": "¥100,000"
+        }
+      },
+      "notes": {
+        "specialty": "注：特殊功能可能因型号而异",
+        "cloud": "云功能需要订阅"
+      }
+    },
+    "cloudPlans": {
+      "title": "云计划",
+      "headers": {
+        "features": "功能",
+        "price": "智能锁月费",
+        "cameraFee": "人脸识别月费选项",
+        "videoClippingFee": "监控录像月费选项",
+        "planFeatures": "计划功能",
+        "iotGateway": "IoT网关",
+        "other": "其他"
+      },
+      "plans": {
+        "basic": {
+          "name": "基础版",
+          "price": "¥1,100/台（含税）",
+          "cameraFee": "-",
+          "videoClippingFee": "-",
+          "planFeatures": "・应用解锁",
+          "iotGateway": "必需",
+          "other": "・无锁数限制\n・最多5个应用用户"
+        },
+        "professional": {
+          "name": "专业版",
+          "price": "¥1,100/台（含税）",
+          "cameraFee": "¥1,100/摄像头（含税）",
+          "videoClippingFee": "¥1,100（含税）\n*1GB云存储",
+          "planFeatures": "・基础版所有功能\n・人脸识别解锁",
+          "iotGateway": "必需",
+          "other": "・无锁数限制\n・最多100个应用用户\n・最多100个人脸识别用户"
+        },
+        "business": {
+          "name": "商业版",
+          "price": "¥1,650/台（含税）",
+          "cameraFee": "¥1,100/摄像头（含税）",
+          "videoClippingFee": "¥2,200（含税）\n*3GB云存储",
+          "planFeatures": "・专业版所有功能\n・动态PIN码通知\n・Airbnb集成\n・清洁计划",
+          "iotGateway": "规格可协商",
+          "other": "・无锁数限制\n・最多1,000个应用用户\n・Airbnb集成：¥1,100/房产/月（含税）"
+        },
+        "enterprise": {
+          "name": "企业版",
+          "price": "¥2,200/台（含税）",
+          "cameraFee": "¥1,100/摄像头（含税）",
+          "videoClippingFee": "¥55,000（含税）\n*100GB云存储",
+          "planFeatures": "・商业版所有功能\n・高级日历管理\n・楼宇管理系统集成\n・API访问",
+          "iotGateway": "规格可协商",
+          "other": "・无限制\n・Airbnb集成：¥1,100/房产/月（含税）"
+        }
+      },
+      "notes": {
+        "pricing": "所有价格均含税",
+        "support": "商业版和企业版提供24/7支持"
+      }
+    }
+  }
+}

@@ -1,0 +1,607 @@
+{
+  "nav": {
+    "home": "ホーム",
+    "checkin": "スマートチェックイン",
+    "bms": "スマートBMS",
+    "api": "API",
+    "about": "GoCheckIn概要",
+    "contact": "お問い合わせ",
+    "pricing": "料金"
+  },
+  "hero": {
+    "title": "スマートビル管理＆チェックインソリューション",
+    "subtitle": "IoTとAIを組み合わせた、シームレスで安全、手頃な価格のビル管理ソリューションとオープンAPI統合",
+    "cta": "始める"
+  },
+  "checkin": {
+    "title": "スマートチェックインソリューション",
+    "subtitle": "インテリジェントなソリューションでチェックインプロセスを効率化",
+    "features": {
+      "automated": {
+        "title": "自動チェックイン＆事前チェックイン",
+        "description": "AI駆動の効率的で非接触のチェックインプロセス"
+      },
+      "external": {
+        "title": "外部API統合",
+        "description": "既存システムとのシームレスな統合"
+      },
+      "resource": {
+        "title": "リソース＆スケジュール計画",
+        "description": "ビルリソースのスマートな配分と管理"
+      },
+      "guest": {
+        "title": "ゲスト登録",
+        "description": "自動化されたゲスト管理とアクセス制御"
+      },
+      "locks": {
+        "title": "スマートロック",
+        "description": "安全で便利なアクセス制御システム"
+      },
+      "communication": {
+        "title": "リモートコミュニケーション＆サポート",
+        "description": "居住者やスタッフとの接続を維持"
+      }
+    }
+  },
+  "bms": {
+    "title": "スマートビル管理システム",
+    "subtitle": "IoT＆AI駆動の包括的なビル管理",
+    "cta": "お問い合わせ",
+    "features": {
+      "cameras": {
+        "title": "既存IPカメラ統合",
+        "description": "現在のカメラインフラを活用"
+      },
+      "storage": {
+        "title": "安全なクラウドストレージ",
+        "description": "安心の暗号化データストレージ"
+      },
+      "entry": {
+        "title": "自動エントリー制御",
+        "description": "登録ユーザー向けのスマートアクセス管理"
+      },
+      "surveillance": {
+        "title": "AI駆動の監視",
+        "description": "インテリジェントなモニタリングとセキュリティ"
+      },
+      "videoClipping": {
+        "title": "スマートビデオクリッピング",
+        "description": "AIによるビデオクリッピングで追跡性を向上"
+      },
+      "affordable": {
+        "title": "手頃で使いやすい",
+        "description": "モダンなビル向けのコスト効率の良いソリューション"
+      }
+    }
+  },
+  "api": {
+    "title": "オープンAPIプラットフォーム",
+    "subtitle": "既存システムとGoCheckInを統合",
+    "features": {
+      "documentation": {
+        "title": "包括的なドキュメント",
+        "description": "詳細なAPIガイドと例"
+      },
+      "authentication": {
+        "title": "安全な認証",
+        "description": "業界標準のセキュリティプロトコル"
+      },
+      "endpoints": {
+        "title": "RESTfulエンドポイント",
+        "description": "使いやすいAPIエンドポイント"
+      },
+      "webhooks": {
+        "title": "リアルタイムWebhook",
+        "description": "インスタント通知と更新"
+      }
+    }
+  },
+  "about": {
+    "title": "GoCheckInについて",
+    "subtitle": "スマートテクノロジーでビル管理を革新",
+    "description": "GoCheckInは、最先端のIoTとAIテクノロジーを組み合わせて、モダンなビル管理のための包括的なソリューションを提供します。当プラットフォームは、シームレスなチェックイン体験と強力なビル管理機能を提供し、最高レベルのセキュリティと手頃な価格を維持します。",
+    "mission": "私たちの使命は、従来のビル管理をスマートで効率的、そしてユーザーフレンドリーな体験に変えることです。既存のインフラストラクチャを活用し、インテリジェントなソフトウェア層を追加することで、不動産管理者のコスト削減、セキュリティの強化、管理者とユーザーの両方の全体的な体験の向上を支援します。",
+    "cta": "お問い合わせ",
+    "features": {
+      "iot": "IoT統合",
+      "ai": "AIテクノロジー",
+      "security": "クラウドセキュリティ",
+      "access": "スマートアクセス",
+      "monitoring": "リアルタイムモニタリング",
+      "affordable": "コスト効率"
+    },
+    "vision": {
+      "title": "私たちのビジョン",
+      "description": "私たちは、ビル管理が完全に自動化され、安全で、どこからでもアクセス可能な未来を構想しています。GoCheckInは、現代の不動産の進化するニーズに適応する革新的なソリューションでこの変革をリードしています。",
+      "innovation": "AIとIoT技術における継続的な革新",
+      "security": "セキュリティとプライバシーへの妥協のないコミットメント",
+      "partnership": "不動産管理者とテクノロジープロバイダーとの強力なパートナーシップ"
+    }
+  },
+  "contact": {
+    "title": "お問い合わせ",
+    "subtitle": "チームにご連絡ください",
+    "form": {
+      "name": "お名前",
+      "email": "メールアドレス",
+      "message": "メッセージ",
+      "submit": "送信"
+    }
+  },
+  "footer": {
+    "copyright": "© 2024 GoCheckIn. All rights reserved.",
+    "quickLinks": "クイックリンク",
+    "social": "フォローする"
+  },
+  "languageSwitch": {
+    "toJapanese": "日本語に切り替える",
+    "toChinese": "簡体中国語に切り替える",
+    "toEnglish": "英語に切り替える"
+  },
+  "sectionHeaders": {
+    "checkinFeatures": "スマートチェックイン機能とソリューション",
+    "bmsFeatures": "スマートBMS機能とソリューション"
+  },
+  "features": {
+    "title": "主な機能",
+    "automated": {
+      "title": "自動チェックイン",
+      "description": "既存のIPカメラを活用してチェックインプロセスを自動化"
+    },
+    "secure": {
+      "title": "安全なクラウドストレージ",
+      "description": "すべてのデータは暗号化されたクラウド環境に保存"
+    },
+    "smartLock": {
+      "title": "スマートロックアクセス",
+      "description": "スマートロックを介して登録ユーザーのみに入室を許可"
+    },
+    "surveillance": {
+      "title": "AI搭載の監視システム",
+      "description": "リアルタイムのイベント検出によるインテリジェントな監視"
+    },
+    "videoClipping": {
+      "title": "スマートビデオクリッピング",
+      "description": "AIによるビデオ分析とクリッピングで追跡性を向上",
+      "slides": {
+        "part1": {
+          "title": "イベント検出",
+          "description": "AIがリアルタイムでイベントを検出・分析"
+        },
+        "part2": {
+          "title": "スマートクリッピング",
+          "description": "検出されたイベントに基づいて関連するビデオセグメントを自動クリップ"
+        },
+        "part3": {
+          "title": "安全な保存",
+          "description": "すべてのクリップは安全に保存され、簡単にアクセス可能"
+        }
+      },
+      "features": {
+        "detection": {
+          "title": "AIイベント検出",
+          "description": "高度なAIアルゴリズムでリアルタイムにイベントを検出・分析"
+        },
+        "clipping": {
+          "title": "スマートクリッピング",
+          "description": "検出されたイベントに基づいて関連するビデオセグメントを自動クリップ"
+        },
+        "storage": {
+          "title": "安全な保存",
+          "description": "すべてのクリップは暗号化されて安全に保存され、簡単にアクセス可能"
+        }
+      }
+    },
+    "hostPortal": {
+      "title": "ホストポータル",
+      "description": "チェックインとシステム操作を管理するユーザーフレンドリーなインターフェース",
+      "tabs": {
+        "dashboard": "ダッシュボードビュー",
+        "management": "管理ビュー"
+      },
+      "tab1": {
+        "description": "リアルタイムのチェックイン状況、占有率、システムアラートを表示する包括的なダッシュボード"
+      },
+      "tab2": {
+        "description": "システム設定の構成、ユーザー管理、レポート生成のための高度な管理インターフェース"
+      },
+      "cta": "始める"
+    },
+    "openApi": {
+      "title": "オープンAPI連携",
+      "description": "包括的なAPIを通じて既存のシステムとシームレスに統合"
+    },
+    "affordable": {
+      "title": "手頃な価格の管理システム",
+      "description": "柔軟な価格オプションを備えた費用対効果の高いビル管理ソリューション"
+    }
+  },
+  "solutions": {
+    "title": "ソリューション",
+    "description": "IoTとAIを活用した包括的なビル管理ソリューション",
+    "items": {
+      "cameras": {
+        "title": "IPカメラ統合",
+        "description": "既存のIPカメラインフラとシームレスに統合"
+      },
+      "cloud": {
+        "title": "クラウドストレージ",
+        "description": "安全でスケーラブルなクラウドストレージ"
+      },
+      "checkin": {
+        "title": "スマートチェックイン",
+        "description": "自動化された非接触チェックインプロセス"
+      },
+      "entry": {
+        "title": "入室管理",
+        "description": "登録ユーザー向けのスマートアクセス管理"
+      },
+      "smartlock": {
+        "title": "スマートロック",
+        "description": "安全で便利なアクセス制御システム"
+      },
+      "surveillance": {
+        "title": "AI監視",
+        "description": "リアルタイムイベント検出によるインテリジェント監視"
+      },
+      "openApi": {
+        "title": "オープンAPI",
+        "description": "既存システムとのシームレスな統合"
+      },
+      "buildingManagement": {
+        "title": "ビル管理",
+        "description": "包括的なビル管理ソリューション"
+      }
+    }
+  },
+  "pricing": {
+    "title": "料金体系",
+    "subtitle": "スマートロック比較表",
+    "table": {
+      "headers": {
+        "model": "型番",
+        "color": "カラー",
+        "battery": "電源",
+        "connectivity": "通信",
+        "unlockMethods": "解錠方法",
+        "autoLock": "オートロック",
+        "installation": "設置工事",
+        "price": "販売価格",
+        "workingFee": "設置費用（参考）"
+      },
+      "devices": {
+        "STK001DC": {
+          "name": "STK001DC",
+          "color": "シルバー",
+          "battery": "単３バッテリー x 2",
+          "connectivity": "・315MHz小電力無線",
+          "unlockMethods": "・PINコード\n・専用リモコン\n・NFC（FeliCa非対応）\n・または指紋\n・その他：クラウド非対応",
+          "autoLock": "オートロック",
+          "installation": "ビス止め設置工事",
+          "price": "¥44,000（税込）",
+          "workingFee": "¥15,000"
+        },
+        "STK001AC": {
+          "name": "STK001AC",
+          "color": "シルバー",
+          "battery": "100V ACアダプター",
+          "connectivity": "・315MHz小電力無線\n・Zigbee",
+          "unlockMethods": "・PINコード\n・専用リモコン\n・NFC（FeliCa非対応）\n・指紋\n・停電解錠\n・その他方式：クラウドプラン",
+          "autoLock": "タイマーオートロック",
+          "installation": "ACアダプター設置工事必要",
+          "price": "¥55,000（税込）",
+          "workingFee": "¥30,000"
+        },
+        "MAG001AC": {
+          "name": "MAG001AC",
+          "color": "シルバー",
+          "battery": "100V ACアダプター",
+          "connectivity": "・315MHz小電力無線\n・Zigbee",
+          "unlockMethods": "・PINコード\n・専用リモコン\n・NFC（FeliCa非対応）\n・指紋\n・停電解錠\n・その他方式：クラウドプラン",
+          "autoLock": "タイマーオートロック",
+          "installation": "ACアダプター設置工事必要",
+          "price": "¥55,000（税込）",
+          "workingFee": "¥30,000"
+        },
+        "MTR001DC": {
+          "name": "MTR001DC",
+          "color": "シルバー",
+          "battery": "単３バッテリー x 6",
+          "connectivity": "・315MHz小電力無線\n・Zigbee",
+          "unlockMethods": "・PINコード\n・専用リモコン\n・NFC（FeliCa非対応）\n・指紋\n・USB-C緊急給電\n・物理鍵\n・その他方式：クラウドプラン",
+          "autoLock": "オートロック",
+          "installation": "扉穴あけ工事必要",
+          "price": "¥66,000（税込）",
+          "workingFee": "¥20,000"
+        },
+        "MTR001AC": {
+          "name": "MTR001AC",
+          "color": "シルバー",
+          "battery": "100V ACアダプター",
+          "connectivity": "・315MHz小電力無線\n・Zigbee",
+          "unlockMethods": "・PINコード\n・専用リモコン\n・NFC（FeliCa非対応）\n・指紋\n・停電解錠\n・物理鍵\n・その他方式：クラウドプラン",
+          "autoLock": "タイマーオートロック",
+          "installation": "扉穴あけと配線工事必要\nACアダプター設置工事必要",
+          "price": "¥88,000（税込）",
+          "workingFee": "¥100,000"
+        }
+      }
+    },
+    "cloudPlans": {
+      "title": "クラウドプラン",
+      "headers": {
+        "features": "機能",
+        "planFeatures": "プラン機能",
+        "planDetails": "プラン詳細",
+        "price": "スマートロック月額料金",
+        "cameraFee": "顔認証月額オプション",
+        "videoClippingFee": "監視録画月額オプション",
+        "iotGateway": "IoTゲートウェイ販売価格",
+        "airbnbFee": "Airbnb連携月額オプション"
+      },
+      "plans": {
+        "none": {
+          "name": "クラウドプランなし"
+        },
+        "basic": {
+          "name": "ベーシック",
+          "planFeatures": "・アプリによる解錠",
+          "planDetails": "・ロック利用台数上限なし\n・アプリ利用者数5名まで",
+          "price": "¥1,100/台（税込）",
+          "cameraFee": "-",
+          "videoClippingFee": "-",
+          "iotGateway": "¥55,000/台（税込）",
+          "airbnbFee": "-"
+        },
+        "professional": {
+          "name": "プロ",
+          "planFeatures": "・ベーシックのすべての機能\n・顔認証解錠",
+          "planDetails": "・ロック利用台数上限なし\n・アプリ利用者数100名まで\n・顔認証利用者数100名まで\n・顔認証カメラ数4台まで\n・録画カメラ数4台まで",
+          "price": "¥1,100/台（税込）",
+          "cameraFee": "¥1,100/カメラ（税込）",
+          "videoClippingFee": "¥1,100（税込）\n*1GBクラウドストレージ",
+          "iotGateway": "¥55,000/台（税込）",
+          "airbnbFee": "-"
+        },
+        "business": {
+          "name": "ビジネス",
+          "planFeatures": "・プロのすべての機能\n・動的なPINコード通知\n・Airbnb連携\n・清掃スケジュール",
+          "planDetails": "・ロック利用台数上限なし\n・アプリ利用者数1,000名まで\n・顔認証利用者数1,000名まで\n・顔認証カメラ数上限なし\n・録画カメラ数上限なし",
+          "price": "¥1,650/台（税込）",
+          "cameraFee": "¥1,100/カメラ（税込）",
+          "videoClippingFee": "¥2,200（税込）\n*3GBクラウドストレージ",
+          "iotGateway": "スペック応相談",
+          "airbnbFee": "¥1,100/物件（税込）"
+        },
+        "enterprise": {
+          "name": "エンタープライズ",
+          "planFeatures": "・ビジネスのすべての機能\n・高度カレンダー管理機能\n・ビル管理システム連携\n・API利用",
+          "planDetails": "・ロック利用台数上限なし\n・アプリ利用者数制限なし\n・ビジター数制限なし\n・顔認証カメラ数上限なし\n・録画カメラ数上限なし",
+          "price": "¥2,200/台（税込）",
+          "cameraFee": "¥1,100/カメラ（税込）",
+          "videoClippingFee": "¥55,000（税込）\n*100GBクラウドストレージ",
+          "iotGateway": "スペック応相談",
+          "airbnbFee": "¥1,100/物件（税込）"
+        }
+      },
+      "notes": {
+        "pricing": "すべての価格は税込みです",
+        "support": "ビジネスおよびエンタープライズプランでは24時間サポートが利用可能です"
+      }
+    },
+    "calculator": {
+      "title": "料金計算ツール",
+      "selectLocks": "スマートロックを選択",
+      "selectPlan": "クラウドプランを選択",
+      "timePeriod": "期間設定",
+      "years": "年数",
+      "yearsUnit": "年",
+      "optionalFeatures": "オプション機能",
+      "quantity": "数量",
+      "faceRecognitionCameras": "顔認証カメラ",
+      "videoRecording": "監視録画",
+      "airbnbIntegration": "Airbnb連携",
+      "airbnbListings": "Airbnbリスティング数",
+      "listings": "件",
+      "iotGateway": "IoTゲートウェイ",
+      "costSummary": "費用概要",
+      "oneTimeCosts": "初期費用",
+      "monthlyCosts": "月額費用",
+      "installationFee": "設置費用",
+      "locks": "台",
+      "month": "月",
+      "totalOneTime": "初期費用合計",
+      "totalMonthly": "月額費用合計",
+      "totalForPeriod": "総費用"
+    }
+  },
+  "buildingManagement": {
+    "title": "ビル管理",
+    "description": "IoTとAIを活用した包括的なビル管理ソリューション",
+    "features": {
+      "access": {
+        "title": "アクセス制御",
+        "description": "登録ユーザー向けのスマートアクセス管理"
+      },
+      "monitoring": {
+        "title": "リアルタイムモニタリング",
+        "description": "ビルシステムと活動のライブモニタリング"
+      },
+      "maintenance": {
+        "title": "メンテナンス管理",
+        "description": "効率的なメンテナンスと修理のワークフロー"
+      },
+      "communication": {
+        "title": "コミュニケーションツール",
+        "description": "居住者とスタッフ向けの内蔵コミュニケーションシステム"
+      }
+    },
+    "dashboard": {
+      "title": "ビル管理ダッシュボード",
+      "subtitle": "フロアレイアウトとスマートデバイスの割り当て",
+      "deviceManagement": "スマートデバイス管理",
+      "features": {
+        "associate": "スマートデバイスを部屋やスペースに関連付ける",
+        "manage": "温度センサー、IPカメラ、スマートロック、照明システムを管理",
+        "interface": "アラームと通知のための直感的なデジタルツインインターフェース",
+        "monitoring": "包括的な監視と制御ダッシュボード"
+      },
+      "learnMore": "詳細を見る",
+      "description": "レイアウト設定機能は、アラームと通知のためのデジタルツインファサードとして機能し、直感的で包括的な管理体験を提供します。"
+    },
+    "pricing": {
+      "title": "料金プラン",
+      "description": "ニーズに最適なプランを選択",
+      "plans": {
+        "basic": {
+          "title": "ベーシック",
+          "price": "¥9,900/月",
+          "description": "小規模ビルに最適"
+        },
+        "standard": {
+          "title": "スタンダード",
+          "price": "¥19,900/月",
+          "description": "中規模ビルに最適"
+        },
+        "premium": {
+          "title": "プレミアム",
+          "price": "カスタム",
+          "description": "カスタムニーズのある大規模ビル向け"
+        }
+      }
+    },
+    "cta": "始める"
+  },
+  "smartDevices": {
+    "title": "スマートデバイス",
+    "subtitle": "スマートロック比較表",
+    "table": {
+      "headers": {
+        "model": "型番",
+        "color": "色",
+        "battery": "電源",
+        "connectivity": "通信",
+        "unlockMethods": "解錠方法",
+        "autoLock": "自動施錠",
+        "installation": "設置工事",
+        "price": "販売価格",
+        "workingFee": "設置費用（参考）"
+      },
+      "devices": {
+        "STK001DC": {
+          "name": "STK001DC",
+          "color": "シルバー",
+          "battery": "単3電池 x 2",
+          "connectivity": "・315MHz微弱無線",
+          "unlockMethods": "・暗証番号\n・専用リモコン\n・NFC（FeliCa非対応）\n・または指紋\n・その他：クラウド非対応",
+          "autoLock": "自動施錠",
+          "installation": "ネジ止め設置",
+          "price": "¥44,000（税込）",
+          "workingFee": "¥15,000"
+        },
+        "STK001AC": {
+          "name": "STK001AC",
+          "color": "シルバー",
+          "battery": "100V ACアダプター",
+          "connectivity": "・315MHz微弱無線\n・Zigbee",
+          "unlockMethods": "・暗証番号\n・専用リモコン\n・NFC（FeliCa非対応）\n・指紋\n・停電時解錠\n・その他方法：クラウドプラン",
+          "autoLock": "タイマー自動施錠",
+          "installation": "ACアダプター設置必要",
+          "price": "¥55,000（税込）",
+          "workingFee": "¥30,000"
+        },
+        "MAG001AC": {
+          "name": "MAG001AC",
+          "color": "シルバー",
+          "battery": "100V ACアダプター",
+          "connectivity": "・315MHz微弱無線\n・Zigbee",
+          "unlockMethods": "・暗証番号\n・専用リモコン\n・NFC（FeliCa非対応）\n・指紋\n・停電時解錠\n・その他方法：クラウドプラン",
+          "autoLock": "タイマー自動施錠",
+          "installation": "ACアダプター設置必要",
+          "price": "¥55,000（税込）",
+          "workingFee": "¥30,000"
+        },
+        "MTR001DC": {
+          "name": "MTR001DC",
+          "color": "シルバー",
+          "battery": "単3電池 x 6",
+          "connectivity": "・315MHz微弱無線\n・Zigbee",
+          "unlockMethods": "・暗証番号\n・専用リモコン\n・NFC（FeliCa非対応）\n・指紋\n・USB-C緊急電源\n・物理キー\n・その他方法：クラウドプラン",
+          "autoLock": "自動施錠",
+          "installation": "扉穴あけ必要",
+          "price": "¥66,000（税込）",
+          "workingFee": "¥20,000"
+        },
+        "MTR001AC": {
+          "name": "MTR001AC",
+          "color": "シルバー",
+          "battery": "100V ACアダプター",
+          "connectivity": "・315MHz微弱無線\n・Zigbee",
+          "unlockMethods": "・暗証番号\n・専用リモコン\n・NFC（FeliCa非対応）\n・指紋\n・停電時解錠\n・物理キー\n・その他方法：クラウドプラン",
+          "autoLock": "タイマー自動施錠",
+          "installation": "扉穴あけ・配線工事必要\nACアダプター設置必要",
+          "price": "¥88,000（税込）",
+          "workingFee": "¥100,000"
+        }
+      },
+      "notes": {
+        "specialty": "注：特殊機能はモデルによって異なる場合があります",
+        "cloud": "クラウド機能には契約が必要です"
+      }
+    },
+    "cloudPlans": {
+      "title": "クラウドプラン",
+      "headers": {
+        "features": "機能",
+        "price": "スマートロック月額料金",
+        "cameraFee": "顔認証月額オプション",
+        "videoClippingFee": "監視録画月額オプション",
+        "planFeatures": "プラン機能",
+        "iotGateway": "IoTゲートウェイ",
+        "other": "その他"
+      },
+      "plans": {
+        "basic": {
+          "name": "ベーシック",
+          "price": "¥1,100/台（税込）",
+          "cameraFee": "-",
+          "videoClippingFee": "-",
+          "planFeatures": "・アプリ解錠",
+          "iotGateway": "必要",
+          "other": "・錠数制限なし\n・アプリユーザー5名まで"
+        },
+        "professional": {
+          "name": "プロフェッショナル",
+          "price": "¥1,100/台（税込）",
+          "cameraFee": "¥1,100/台（税込）",
+          "videoClippingFee": "¥1,100（税込）\n*1GBクラウドストレージ",
+          "planFeatures": "・ベーシックのすべての機能\n・顔認証解錠",
+          "iotGateway": "必要",
+          "other": "・錠数制限なし\n・アプリユーザー100名まで\n・顔認証ユーザー100名まで"
+        },
+        "business": {
+          "name": "ビジネス",
+          "price": "¥1,650/台（税込）",
+          "cameraFee": "¥1,100/台（税込）",
+          "videoClippingFee": "¥2,200（税込）\n*3GBクラウドストレージ",
+          "planFeatures": "・プロのすべての機能\n・動的なPINコード通知\n・Airbnb連携\n・清掃スケジュール",
+          "iotGateway": "仕様応相談",
+          "other": "・錠数制限なし\n・アプリユーザー1,000名まで\n・Airbnb連携：¥1,100/物件（税込）"
+        },
+        "enterprise": {
+          "name": "エンタープライズ",
+          "price": "¥2,200/台（税込）",
+          "cameraFee": "¥1,100/台（税込）",
+          "videoClippingFee": "¥55,000（税込）\n*100GBクラウドストレージ",
+          "planFeatures": "・ビジネスのすべての機能\n・高度なカレンダー管理\n・ビル管理システム連携\n・API アクセス",
+          "iotGateway": "仕様応相談",
+          "other": "・制限なし\n・Airbnb連携：¥1,100/物件（税込）"
+        }
+      },
+      "notes": {
+        "pricing": "すべての価格は税込みです",
+        "support": "ビジネスおよびエンタープライズプランでは24時間サポートが利用可能です"
+      }
+    }
+  }
+}

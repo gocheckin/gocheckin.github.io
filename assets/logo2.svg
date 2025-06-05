@@ -1,0 +1,41 @@
+<svg width="400" height="200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Define styles -->
+  <style>
+    .gocheckin-text-green {
+      font-family: "Phosphate", Impact, sans-serif;
+      font-weight: normal;
+      font-size: 60px;
+      fill: #4CAF50; /* Outer fill color */
+      stroke: #FFFFFF; /* White stroke to simulate inline cutout */
+      stroke-width: 10px;
+      stroke-linejoin: round;
+      paint-order: stroke fill;
+    }
+  </style>
+  <style>
+    .gocheckin-text-black {
+      font-family: "Phosphate", Impact, sans-serif;
+      font-weight: normal;
+      font-size: 60px;
+      fill: #000000; /* Outer fill color */
+      stroke: #FFFFFF; /* White stroke to simulate inline cutout */
+      stroke-width: 10px;
+      stroke-linejoin: round;
+      paint-order: stroke fill;
+    }
+  </style>
+  <style>
+    .gocheckin-check {
+      font-family: "Phosphate", Impact, sans-serif;
+      font-weight: normal;
+      font-size: 60px;
+      fill:rgb(0, 0, 0); /* Outer fill color */
+    }
+  </style>
+
+  <!-- Text element -->
+  <text x="0" y="120" class="gocheckin-check">☑️</text>
+  <text x="70" y="120" class="gocheckin-text-green">GO</text>
+  <text x="160" y="120" class="gocheckin-text-black">CHECK</text>
+  <text x="340" y="120" class="gocheckin-text-green">IN</text>
+</svg>
